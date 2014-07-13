@@ -1,5 +1,3 @@
-ExpData_201407
-==============
 ## Introduction
 
 This assignment uses data from
